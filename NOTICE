@@ -1,0 +1,13 @@
+heyol-models
+
+This repository redistributes unmodified model weight files.
+
+Qwen3.5-0.8B and Qwen3-0.6B
+Copyright the Qwen team (Alibaba Cloud).
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+GGUF quantizations (Q4_K_M) by Unsloth, published at
+https://huggingface.co/unsloth/Qwen3.5-0.8B-GGUF and
+https://huggingface.co/unsloth/Qwen3-0.6B-GGUF under the same licence.
+
+No changes were made to the files.
